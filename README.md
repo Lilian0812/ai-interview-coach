@@ -3,8 +3,6 @@
 系統會根據使用者的背景資訊自動生成客製化的面試問題，
 並針對使用者回答提供即時評分、優缺點分析與具體改善建議，幫助求職者更有效地準備技術與情境面試。
 
----
-
 ## 主要功能
 ### 客製化出題
 - 根據輸入的 **應徵職位、自我介紹、技能與專案經驗** 生成具體、真實且與職位高度相關的面試問題  
@@ -22,8 +20,6 @@
 - 每次僅顯示一個面試問題，專注練習  
 - 可點擊「下一題」產生新問題，或選擇「結束」結束練習
 
----
-
 ## 操作流程
 1. 填寫背景資訊
    - 應徵職位
@@ -38,20 +34,20 @@
 4. 點擊「下一題」或「結束」
    - 可繼續練習或結束本次模擬
 
----
-
 ## 網頁介面預覽
-<img width="1812" height="986" alt="image" src="https://github.com/user-attachments/assets/9f0f5674-4c1b-49ca-aaf0-aca69b79c621" />
+<img width="1823" height="990" alt="image" src="https://github.com/user-attachments/assets/ff5d4576-bc41-4640-9c39-51f6ed322d67" />
 
----
 
 ## 執行方式
 1. 安裝套件:
 ```bash
 pip install -r requirements.txt
+
 2. 建立.env檔:
 專案中已附有範例檔.env.example，可直接複製並重新命名為.env
+
 3. 啟動系統: 
 ```bash
 python app.py
+
 4. 在瀏覽器開啟連結
