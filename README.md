@@ -35,8 +35,7 @@
    - 可繼續練習或結束本次模擬
 
 ## 網頁介面預覽
-<img width="1823" height="990" alt="image" src="https://github.com/user-attachments/assets/ff5d4576-bc41-4640-9c39-51f6ed322d67" />
-
+<img width="1812" height="982" alt="image" src="https://github.com/user-attachments/assets/94419159-e94d-4cea-953d-cd0d0841712d" />
 
 ## 執行方式
 1. 安裝套件:
